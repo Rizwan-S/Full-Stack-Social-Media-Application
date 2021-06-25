@@ -31,10 +31,6 @@ Currently the app includes features such as posting, liking, updating and deleti
 ```
     npm start
 ```
-
-# Acknowledgements
-- [Javascript Mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&ist=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
-
 # Contribute:
 Contributions, issues and feature requests are welcome!
 
