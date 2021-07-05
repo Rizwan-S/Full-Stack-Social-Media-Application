@@ -32,5 +32,5 @@ app.use('/posts', postRoutes);
 app.use('/user', userRoutes);
 
 app.get('/', (req, res) => {
-    res.send('Welcome to Memories API');
+    res.send('Memories V2 server is RUNNING.');
 });
