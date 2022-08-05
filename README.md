@@ -1,4 +1,4 @@
-# Memories
+# Full Stack Social Media Application
 A full stack social media application built in MERN stack.
 
 Currently the app includes features such as posting, liking, updating and deleting posts.
